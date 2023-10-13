@@ -9774,7 +9774,7 @@ h5,
 }
 
 .owl-carousel.home-slider {
-  z-index: 0;
+ 
   position: relative;
   background: #000;
 }
@@ -9835,7 +9835,7 @@ h5,
   font-size: 18px;
   text-transform: uppercase;
   color: #fff;
-  position: relative;
+  /* position: relative; */
   margin-left: 60px;
 }
 .owl-carousel.home-slider .slider-item .slider-text h3::after{

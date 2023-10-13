@@ -60,12 +60,14 @@
     /** Benefits from our institutes start **/
     .home-feature {
         margin-left: 2%;
-        margin-right: 2%
+        margin-right: 2%;
+        padding: 0px 10px;
     }
 
     .home-feature h1{
         margin-top: 30px;
         font-size: 28px;
+        line-height: 34px;
     }
 
     .home-feature .our_institutes_para{
@@ -73,6 +75,10 @@
         padding: 0px 0px;
     }
 
+    .features-small-item{
+        margin-top: 30px;
+        height: 300px !important;
+    }
     .benefits_box .counter_heading{
         font-size: 13px;
         padding: 10px 8px 8px;
@@ -80,7 +86,17 @@
         top: -6px;
         letter-spacing: 0px;
         margin-left: 50px;
-      }
+    }
+
+    .join_institutes{
+        padding: 0px 20px 0px 20px;
+        margin-top: 0px;
+    }
+
+    .join_institutes .join_left h1{
+        font-size: 28px;
+        line-height: 34px;
+    }
 
     .owl-carousel.home-slider .slider-item .slider-text{
         padding-left: 0px !important;
